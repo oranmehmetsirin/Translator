@@ -37,6 +37,8 @@ https://rapidapi.com/dickyagustin/api/text-translator2
 
 The visual of the project is presented below.
 
+In the project, a responsive structure was also studied and implemented via Tailwind.
+
 You can change the naming and formatting of the project and contribute.
 
 
