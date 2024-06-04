@@ -1,20 +1,12 @@
 # Translator
 
+a translation application web frontend.
 
-A translation application web frontend.
+In the project implemented as React-Vite, it is possible to translate from any language to the target language with the data received from the API.
 
-In the project implemented as React-Vite, it is possible to translate from any language to the target language with the 
-
-data received from the API.
-
-The libraries used in the project where Tailwind was used for formatting and the API from which the data was obtained 
-
-are listed below.
-
-
+The libraries used in the project, where Tailwind was used for formatting, are listed below and the API from which the data is obtained is presented.
 
 Libraries;
-
 
 React-Select,
 
@@ -26,20 +18,17 @@ Axios,
 
 Tailwind
 
-
-and 
-
+and
 
 API;
 
 https://rapidapi.com/dickyagustin/api/text-translator2
 
-
 The visual of the project is presented below.
 
-In the project, a responsive structure was also studied and implemented via Tailwind.
+In the project, a responsive structure was also worked on and implemented via Tailwind.
 
-You can change the naming and formatting of the project and contribute.
+You can contribute by changing the name and format of the project.
 
 
 # React + Vite
