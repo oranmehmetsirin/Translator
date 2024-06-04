@@ -30,6 +30,8 @@ In the project, a responsive structure was also worked on and implemented via Ta
 
 You can contribute by changing the name and format of the project.
 
+![Animation](https://github.com/oranmehmetsirin/Translator/blob/main/gif.gif?raw=true)
+
 
 # React + Vite
 
