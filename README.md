@@ -35,6 +35,11 @@ API;
 https://rapidapi.com/dickyagustin/api/text-translator2
 
 
+The visual of the project is presented below.
+
+You can change the naming and formatting of the project and contribute.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
