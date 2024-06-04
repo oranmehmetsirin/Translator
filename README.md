@@ -16,13 +16,13 @@ are listed below.
 Libraries;
 
 
-React-Select
+React-Select,
 
-React-Redux
+React-Redux,
 
-Reduxjs/Toolkit
+Reduxjs/Toolkit,
 
-Axios
+Axios,
 
 Tailwind
 
